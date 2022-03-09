@@ -1,0 +1,38 @@
+JSON Schema: Agent_record_control
+
+Properties
+
+string	maintenance_status
+
+string	publication_status
+
+string	romanization
+
+string	government_agency_type
+
+string	reference_evaluation
+
+string	name_type
+
+string	level_of_detail
+
+string	modified_record
+
+string	cataloging_source
+
+string	language
+
+string	script
+
+string (max length: 65000)	language_note
+
+string (max length: 65000)	maintenance_agency
+
+string (max length: 65000)	agency_name
+
+string (max length: 65000)	maintenance_agency_note
+
+
+
+
+

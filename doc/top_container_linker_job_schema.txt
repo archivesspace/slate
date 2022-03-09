@@ -1,0 +1,18 @@
+JSON Schema: Top_container_linker_job
+
+Properties
+
+string	resource_id
+
+string	filename
+
+string	load_type
+
+string	content_type
+
+string	only_validate
+
+
+
+
+

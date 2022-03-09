@@ -1,0 +1,10 @@
+JSON Schema: Note_legal_status
+
+Properties
+
+array ([{"type"=>"JSONModel(:note_text) object"}, {"type"=>"JSONModel(:note_citation) object"}])	subnotes
+
+
+
+
+

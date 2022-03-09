@@ -1,0 +1,18 @@
+JSON Schema: Agent_place
+
+Properties
+
+boolean	publish
+
+string	place_role
+
+array (JSONModel(:structured_date_label) object)	dates
+
+array ([{"type"=>"JSONModel(:note_text) object"}, {"type"=>"JSONModel(:note_citation) object"}])	notes
+
+array (Object (ref, _resolved))	subjects
+
+
+
+
+

@@ -1,0 +1,14 @@
+JSON Schema: Note_contact_note
+
+Properties
+
+string (max length: 65000)	date_of_contact
+
+string (max length: 65000)	contact_notes
+
+boolean	publish
+
+
+
+
+

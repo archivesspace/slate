@@ -1,0 +1,18 @@
+JSON Schema: Agent_topic
+
+Properties
+
+boolean	publish
+
+array (JSONModel(:structured_date_label) object)	dates
+
+array ([{"type"=>"JSONModel(:note_text) object"}, {"type"=>"JSONModel(:note_citation) object"}])	notes
+
+array (Object (ref, _resolved))	subjects
+
+array (Object (ref, _resolved))	places
+
+
+
+
+

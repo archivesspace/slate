@@ -1,0 +1,16 @@
+JSON Schema: Parallel_name_family
+
+Properties
+
+string (max length: 65000)	family_name
+
+string (max length: 65000)	prefix
+
+string (max length: 65000)	location
+
+string (max length: 65000)	family_type
+
+
+
+
+

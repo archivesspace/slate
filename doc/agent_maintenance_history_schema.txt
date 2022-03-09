@@ -1,0 +1,18 @@
+JSON Schema: Agent_maintenance_history
+
+Properties
+
+string	maintenance_event_type
+
+string	maintenance_agent_type
+
+date-time	event_date
+
+string (max length: 65000)	agent
+
+string (max length: 65000)	descriptive_note
+
+
+
+
+

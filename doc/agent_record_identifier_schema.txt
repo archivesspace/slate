@@ -1,0 +1,16 @@
+JSON Schema: Agent_record_identifier
+
+Properties
+
+boolean	primary_identifier
+
+string (max length: 65000)	record_identifier
+
+string	source
+
+string	identifier_type
+
+
+
+
+

@@ -1,0 +1,20 @@
+JSON Schema: Structured_date_range
+
+Properties
+
+string (max length: 255)	begin_date_expression
+
+string (max length: 255)	begin_date_standardized
+
+string	begin_date_standardized_type
+
+string (max length: 255)	end_date_expression
+
+string (max length: 255)	end_date_standardized
+
+string	end_date_standardized_type
+
+
+
+
+

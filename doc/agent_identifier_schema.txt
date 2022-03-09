@@ -1,0 +1,12 @@
+JSON Schema: Agent_identifier
+
+Properties
+
+string (max length: 65000)	entity_identifier
+
+string	identifier_type
+
+
+
+
+

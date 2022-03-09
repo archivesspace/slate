@@ -1,0 +1,34 @@
+JSON Schema: Agent_resource
+
+Properties
+
+boolean	publish
+
+string	linked_agent_role
+
+string (max length: 65000)	linked_resource
+
+string (max length: 65000)	linked_resource_description
+
+string (max length: 65000)	file_uri
+
+string	file_version_xlink_actuate_attribute
+
+string	file_version_xlink_show_attribute
+
+string (max length: 65000)	xlink_title_attribute
+
+string (max length: 65000)	xlink_role_attribute
+
+string (max length: 65000)	xlink_arcrole_attribute
+
+date-time	last_verified_date
+
+array (JSONModel(:structured_date_label) object)	dates
+
+array (Object (ref, _resolved))	places
+
+
+
+
+

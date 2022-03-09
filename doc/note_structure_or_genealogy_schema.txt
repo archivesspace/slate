@@ -1,0 +1,10 @@
+JSON Schema: Note_structure_or_genealogy
+
+Properties
+
+array ([{"type"=>"JSONModel(:note_text) object"}, {"type"=>"JSONModel(:note_definedlist) object"}, {"type"=>"JSONModel(:note_orderedlist) object"}, {"type"=>"JSONModel(:note_outline) object"}])	subnotes
+
+
+
+
+

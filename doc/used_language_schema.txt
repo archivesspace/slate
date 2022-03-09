@@ -1,0 +1,14 @@
+JSON Schema: Used_language
+
+Properties
+
+string	language
+
+string	script
+
+array ([{"type"=>"JSONModel(:note_text) object"}, {"type"=>"JSONModel(:note_citation) object"}])	notes
+
+
+
+
+

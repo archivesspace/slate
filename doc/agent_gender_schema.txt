@@ -1,0 +1,14 @@
+JSON Schema: Agent_gender
+
+Properties
+
+string	gender
+
+array (JSONModel(:structured_date_label) object)	dates
+
+array ([{"type"=>"JSONModel(:note_text) object"}, {"type"=>"JSONModel(:note_citation) object"}])	notes
+
+
+
+
+

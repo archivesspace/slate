@@ -1,0 +1,26 @@
+JSON Schema: Agent_sources
+
+Properties
+
+string (max length: 65000)	source_entry
+
+string (max length: 65000)	descriptive_note
+
+string (max length: 65000)	file_uri
+
+string	file_version_xlink_actuate_attribute
+
+string	file_version_xlink_show_attribute
+
+string (max length: 65000)	xlink_title_attribute
+
+string (max length: 65000)	xlink_role_attribute
+
+string (max length: 65000)	xlink_arcrole_attribute
+
+date-time	last_verified_date
+
+
+
+
+

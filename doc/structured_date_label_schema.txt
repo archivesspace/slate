@@ -1,0 +1,22 @@
+JSON Schema: Structured_date_label
+
+Properties
+
+string	date_label
+
+string	date_type_structured
+
+JSONModel(:structured_date_single) object	structured_date_single
+
+JSONModel(:structured_date_range) object	structured_date_range
+
+string	date_certainty
+
+string	date_era
+
+string	date_calendar
+
+
+
+
+

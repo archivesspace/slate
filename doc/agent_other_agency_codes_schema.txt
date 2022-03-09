@@ -1,0 +1,12 @@
+JSON Schema: Agent_other_agency_codes
+
+Properties
+
+string	agency_code_type
+
+string (max length: 65000)	maintenance_agency
+
+
+
+
+
